@@ -6,6 +6,7 @@ Pythonのインストールをしてない人はPythonをインストールし�
 このスクリプトの動作確認ではPython3.10を使用しました。
 
 コマンドプロンプト・パワーシェル・Windowsターミナルなどで
+
 pip install requests
 
 pip install mastodon.py
