@@ -1,9 +1,9 @@
 from mastodon import Mastodon
 
-app_name = "アプリの名前"
+app_name = "アプリの名前、なんでもいいのでお好きに"
 mail = "マストドンにログインするメールアドレス"
 password = "マストドンにログインするパスワード"
-
+#自分のいるマストドンのURLに変えてください
 url = "https://mastodon.comorichico.com"
 
 Mastodon.create_app(app_name,
