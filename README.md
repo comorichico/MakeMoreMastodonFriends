@@ -5,8 +5,14 @@
 Pythonのインストールをしてない人はPythonをインストールしてください。
 このスクリプトの動作確認ではPython3.10を使用しました。
 
-setup.pyのapp_name、mail、password、urlを書き換えてください。
 コマンドプロンプト・パワーシェル・Windowsターミナルなどで
+pip install requests
+
+pip install mastodon.py
+
+で必要なものをインストールします。
+
+setup.pyのapp_name、mail、password、urlを書き換えてください。
 
 python setup.py
 
